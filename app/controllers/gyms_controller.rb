@@ -17,8 +17,7 @@ class GymsController < ApplicationController
     end
   end
 
-  #Delete a gym Parts 1 & 2
-  #COMPLETE
+  #Delete a gym Part 1
   def destroy
     gym = Gym.find_by(id: params[:id])
     if gym

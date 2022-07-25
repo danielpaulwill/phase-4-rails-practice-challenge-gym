@@ -10,7 +10,7 @@ Rails.application.routes.draw do
     # COMPLETE
  
   # Delete a gym
-    # COMPLETE
+    # Part 1 of 2 DONE
  
   # View one specific client
     # COMPLETE
